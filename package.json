@@ -2,13 +2,13 @@
 	"name": "fs.promisify",
 	"version": "1.0.7",
 	"keywords": [],
-	"homepage": "https://github.com/anzerr/fs.promisify#readme",
+	"homepage": "https://github.com/Product-Live/fs.promisify#readme",
 	"bugs": {
-		"url": "https://github.com/anzerr/fs.promisify/issues"
+		"url": "https://github.com/Product-Live/fs.promisify/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:anzerr/fs.promisify.git"
+		"url": "git@github.com:Product-Live/fs.promisify.git"
 	},
 	"license": "MIT",
 	"author": "anzerr",
@@ -21,7 +21,7 @@
 		"extends": "eslint-config-basic"
 	},
 	"devDependencies": {
-		"eslint-config-basic": "git+https://git@github.com/anzerr/eslintrc.git"
+		"eslint-config-basic": "git+https://git@github.com/Product-live/eslintrc.git"
 	},
 	"engines": {
 		"node": ">= 0.10.0"
